@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Updated on 2021.11.04
 
 ## SLAM
@@ -93,3 +94,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
+=======
+# cv-arxiv-daily
+arxiv论文自动获取
+>>>>>>> 184e59cc94fe66f8b7c86b6417fbf05a6a688521
